@@ -3,7 +3,7 @@ resample and noise reduction tool based on modelscope
 提供重采样方法和基于modelscope的降噪工具
 
 # 描述
-NR.py--降噪
+NR.py--降噪\n
 resample.py--重采样
 
 # 重采样
